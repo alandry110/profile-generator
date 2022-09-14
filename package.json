@@ -1,0 +1,23 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "Object-Oriented Programming Module 10 Challenge",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "generator"
+  ],
+  "author": "Ashlynn Landry",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
