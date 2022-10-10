@@ -11,7 +11,7 @@ This application also uses 'npm install jest' to run unit tests on each each sec
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Technologies Used](#technologies-used)
-- [Final Application](#final-application-walkthrough-video)
+- [Final Application](#final-application)
 - [Installation](#installation)
 - [Tests](#tests)
 - [Credits](#credits)
@@ -41,13 +41,12 @@ This application also uses 'npm install jest' to run unit tests on each each sec
 * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 * ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-## Final Application Walkthrough Video
+## Final Application
 ![walkthrough video]()
 
 ## Installation
-* Download [Node.js](!https://nodejs.org/en/) 
 * Clone repository from GitHub 
-* Open terminal and install the [Inquirer package](!https://www.npmjs.com/package/inquirer) and the [Jest package](!https://jestjs.io/docs/getting-started)
+* Open terminal and type `npm init` then `npm i` to install dependencies.
 
 ## Tests
 * Type `npm run test` in your terminal to run Jest for unit tests.
@@ -59,7 +58,6 @@ This application also uses 'npm install jest' to run unit tests on each each sec
 * [Inquirer Documentation](!https://www.npmjs.com/package/inquirer)
 
  ## License 
-
 MIT License
 
 Copyright © 2022, Ashlynn Landry
