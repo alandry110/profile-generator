@@ -65,13 +65,14 @@ THEN I exit the application, and the HTML is generated
 
 ## Final Application
 * Final Team Profile
-![screenshot of team profile html](./assets/images/final%20project.png)
+* ![screenshot of team profile html](./assets/images/final%20project.png)
 * Walkthrough Video of tests and command-line application
-![walkthrough video]()
+* ![walkthrough video](https://drive.google.com/file/d/1yezFnVCA0nSZRwXNREP_Z17Ou4gSD-g5/view?usp=sharing)
 
 ## Installation
+* Download [Node.js](https://nodejs.org/en/download/)
 * Clone repository from GitHub 
-* Open terminal and type `npm init` then `npm i` to install dependencies.
+* Open terminal and type `npm i` to install dependencies.
 * To start the command-line application type `node index.js`. 
 
 ## Tests
