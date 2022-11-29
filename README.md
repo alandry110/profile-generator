@@ -66,6 +66,8 @@ THEN I exit the application, and the HTML is generated
 ## Final Application
 * Final Team Profile
 * ![screenshot of team profile html](./assets/images/final%20project.png)
+* Live Link of Sample HTML
+* [Sample HTML](https://ashclandry.github.io/profile-generator/)
 * Walkthrough Video of tests and command-line application
 * [walkthrough video](https://drive.google.com/file/d/1a8tYlFHF18B2e3QEAKdA7XiDEOojKtQN/view?usp=sharing)
 
