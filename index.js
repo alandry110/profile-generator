@@ -175,7 +175,7 @@ function addEmployee() {
                     </li>
                   </ul>
                   <div class="card-body d-flex align-items-end justify-content-center">
-                    <a href="${email}" class="card-link text-decoration-none">Email</a>
+                    <a href="mailto:${email}" class="card-link text-decoration-none">Email</a>
                   </div>
                 </div>  
               </div>
@@ -197,7 +197,7 @@ function addEmployee() {
                   </ul>
                   <div class="card-body d-flex align-items-end justify-content-center">
                     <a href="${github}" class="card-link text-decoration-none">GitHub</a>
-                    <a href="${email}" class="card-link text-decoration-none">Email</a>
+                    <a href="mailto:${email}" class="card-link text-decoration-none">Email</a>
                   </div>
                 </div>  
               </div>
@@ -221,7 +221,7 @@ function addEmployee() {
                     </li>
                   </ul>
                   <div class="card-body d-flex align-items-end justify-content-center">
-                    <a href="${email}" class="card-link text-decoration-none">Email</a>
+                    <a href="mailto:${email}" class="card-link text-decoration-none">Email</a>
                   </div>
                 </div>  
               </div>
