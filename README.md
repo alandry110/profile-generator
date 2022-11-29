@@ -67,7 +67,7 @@ THEN I exit the application, and the HTML is generated
 * Final Team Profile
 * ![screenshot of team profile html](./assets/images/final%20project.png)
 * Walkthrough Video of tests and command-line application
-* [walkthrough video](https://drive.google.com/file/d/1yezFnVCA0nSZRwXNREP_Z17Ou4gSD-g5/view?usp=sharing)
+* [walkthrough video](https://drive.google.com/file/d/1a8tYlFHF18B2e3QEAKdA7XiDEOojKtQN/view?usp=sharing)
 
 ## Installation
 * Download [Node.js](https://nodejs.org/en/download/)
